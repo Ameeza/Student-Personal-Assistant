@@ -1,0 +1,9 @@
+streamlit
+pyautogui
+streamlit_option_menu
+speechrecognition
+pyttsx3
+google.generativeai
+streamlit_chat
+pywhatkit
+gtts
